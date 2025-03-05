@@ -93,7 +93,7 @@ _Add relevant screenshots of the application here to enhance the documentation._
 
 
 ## 🌐 Deployed Application
-Access the live application here: **[Paste your deployed link here]**
+Access the live application here: **[AI-Performance-Analyzer](https://ai-performance-analyzer-glvpsavvhvghvtgxvk8uva.streamlit.app/)**
 
 
 ---
@@ -113,7 +113,7 @@ This project is **open-source** under the MIT License. Feel free to use, modify,
 
 ## 📬 Contact
 
-For any queries or collaboration opportunities, connect with me on **[LinkedIn](https://www.linkedin.com/in/your-profile)** or email me at **[your-email@example.com](mailto\:your-email@example.com)**.
+For any queries or collaboration opportunities, connect with me on **[LinkedIn](www.linkedin.com/in/ranjith-kumar-surineni-b73b981b6)** or email me at **[ranjithranji1903@gmail.com](mailto\:ranjithranji1903@hmail.com)**.
 
 ---
 
