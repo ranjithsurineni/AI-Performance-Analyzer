@@ -1,4 +1,4 @@
-# AI-Powered Employee Performance Analyzer
+# 🧠AI-Powered Employee Performance Analyzer🔥
 
 ## 📌 Overview
 The **AI-Powered Employee Performance Analyzer** is a dynamic **web-based AI application** built using **Streamlit**. This tool allows organizations to analyze employee performance, compare it with department averages, and predict future performance using **Machine Learning models** such as:
