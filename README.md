@@ -18,6 +18,7 @@ It enables users to:
 ## 🚀 Features
 - **CSV File Upload**: Allows users to upload an employee dataset.
 - **Dynamic Feature Selection**: Users can select department, employee, and performance metrics.
+- **Dynamic Feature Selecton and visualization**: - Employee performance analysis with pie charts by Select the categorical and numerical features for analysis.
 - **Interactive Data Visualization**: Bar charts to compare individual vs. department performance.
 - **Machine Learning Model Selection**: Train and evaluate different models.
 - **Real-Time Predictions**: Predict an employee’s performance and assess their safety status.
@@ -74,17 +75,25 @@ streamlit run app.py
 
 The app will open in your **web browser automatically**.s
 
+---
+### 📊 Pie Chart Functionality
 
+The pie chart functionality dynamically selects relevant fields from the feature columns and provides the pie chart after selecting the features. The salary details are displayed below the pie chart.
+
+---
 ## 📊 Screenshots
 _Add relevant screenshots of the application here to enhance the documentation._
 
 - **Dataset Upload**
-![02](https://github.com/user-attachments/assets/1a58940b-ea5e-4b53-8600-e8351ec92275)
+![02](https://github.com/user-attachments/assets/20228cc7-bcb1-4e83-893f-8dcd5aceca87)
 
 
 
 
 - **Performance Analysis**
+![04](https://github.com/user-attachments/assets/dadab11a-b6cb-4fed-a794-c7b7c85d1799)
+
+
 ![01](https://github.com/user-attachments/assets/11086259-aa68-486f-8443-8fa50434de3c)
 
 
