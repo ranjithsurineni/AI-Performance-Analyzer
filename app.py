@@ -17,6 +17,36 @@ from matplotlib.patches import ConnectionPatch
 st.set_page_config(page_title="AI-Powered Employee Performance Analyzer", layout="wide")
 st.title("📊 AI-Powered Employee Performance Analyzer")
 
+# App Description
+st.write("This web application is an AI-powered employee performance analyzer that helps HR professionals to predict employee performance based on various features.")
+st.info("""
+### How to Use This Tool:
+1. **Upload a CSV Dataset** with the following columns:
+    - **Name**: Employee's full name.
+    - **Age**: Age of the employee.
+    - **Gender**: Male/Female/Other.
+    - **Projects Completed**: Number of projects successfully completed.
+    - Productivity (%): Employee's productivity percentage.
+    - **Satisfaction Rate (%)**: Employee's satisfaction level in percentage.
+    - **Feedback Score**: Overall feedback score from peers/supervisors.
+    - **Department**: Department where the employee works.
+    - **Position**: Job position/title of the employee.
+    - **Joining Date**: Date when the employee joined the company.
+    - **Salary**: Employee's total salary.
+
+2. **Once uploaded, the dashboard will display key insights and visualizations.**
+3. **Use the sidebar** to filter results by department and employee.
+4. **Analyze performance trends** using dynamic charts and AI predictions.
+5. **Predict employee performance** based on selected features using machine learning models.
+6. **If necessary alter the dataset column by this in below github link for better peocessing** 
+7. **GIT Repository**: [Employee Performance Analyzer](https://github.com/ranjithsurineni/AI-Performance-Analyzer.git)
+8. **Author**: [Ranjith Kumar Surineni](https://www.linkedin.com/in/ranjith-kumar-surineni-b73b981b6/)
+""")
+
+
+
+
+
 # File uploader for dataset
 st.sidebar.header("📂 Upload Employee Dataset")
 uploaded_file = st.sidebar.file_uploader("Upload CSV file", type=["csv"])
